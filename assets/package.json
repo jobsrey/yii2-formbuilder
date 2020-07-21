@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "formBuilder": "^2.2.6"
-  }
+    "dependencies": {
+        "formBuilder": "^3.4.2"
+    }
 }
